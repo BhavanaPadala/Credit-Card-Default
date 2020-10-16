@@ -1,1 +1,1 @@
-Deployment of mini project using Flask on Heroku.
+##Link to the web app deployed on Heroku: https://bhavana-credit-card.herokuapp.com/
