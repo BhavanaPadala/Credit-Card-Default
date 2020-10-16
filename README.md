@@ -6,10 +6,10 @@ Our client is a credit card company. They have brought us a dataset that include
 
 ### Columns
 
-The account ID column is referenced as ID. The remaining columns appear to be the features, with the last column being the response variable. 
-**LIMIT_BAL:** Amount of the credit provided (in New Taiwanese (NT) dollar) including individual consumer credit and the family (supplementary) credit.
-**SEX:** Gender (1 = male; 2 = female).
-**EDUCATION:** Education (1 = graduate school; 2 = university; 3 = high school; 4 = others).
+The account ID column is referenced as ID. The remaining columns appear to be the features, with the last column being the response variable.<br> 
+**LIMIT_BAL:** Amount of the credit provided (in New Taiwanese (NT) dollar) including individual consumer credit and the family (supplementary) credit.<br>
+**SEX:** Gender (1 = male; 2 = female).<br>
+**EDUCATION:** Education (1 = graduate school; 2 = university; 3 = high school; 4 = others).<br>
 **MARRIAGE:** Marital status (1 = married; 2 = single; 3 = others).
 **AGE:** Age (year).
 **PAY_1–Pay_6:** A record of past payments. Past monthly payments, recorded from April to September, are stored in these columns.
